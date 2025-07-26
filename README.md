@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Final Result](public/screenshoot.png)
+![Final Result](.\assets\images\screenshoot.png)
 
 Above is the final result of my solution for this challenge, with the blog card's title turning yellow when the mouse hovers over it or clicks it, like so:
 
-![Final Hover Result](public/screenshoot_hover.png)
+![Final Hover Result](.\assets\images\screenshoot_hover.png)
 
 
 ### Links
